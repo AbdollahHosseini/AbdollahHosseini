@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdollahHosseini
-- 👀 I’m interested in Football, UFC and COD
-- 🌱 I’m currently learning Python Essential for MLOps
+- 👀 I’m interested in Football & Gaming
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any python-written project
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abdollah-hosseini-9855ab236/)
 
