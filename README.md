@@ -7,7 +7,7 @@ Welcome to the space where my ideas come to real life. I'm a developer and stude
 ## What I'm Up To
 
 *   **The Finance Obsession:** Trying to "solve" the stock market. Yes, I know it's practically impossible, but the math and data engineering challenge is just too addictive to ignore.
-*   **Logic and Paradoxes:** Fascinated by quirky problems that defy intuition—like the Monty Hall problem I first stumbled upon on a TV show.
+*   **Logic and Paradoxes:** Fascinated by quirky problems that defy intuition—like the Monty Hall problem I first stumbled upon on a TV show — 99!
 *   **University and Beyond:** This profile doubles as a home for my academic coursework, experimental projects, and engineering deep-dives.
 
 ---
