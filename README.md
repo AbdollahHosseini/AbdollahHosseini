@@ -22,7 +22,7 @@ Welcome to the space where my ideas come to real life. I'm a developer and stude
 
 ## Connect With Me
 
-Reach out to me through my **Website:** [abdollah.dev](https://abdollah.dev)
+Check out my **Website:** [abdollah.dev](https://abdollah.dev)
 
 ---
 
