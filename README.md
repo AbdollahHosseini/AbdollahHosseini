@@ -6,16 +6,16 @@ Welcome to the space where my ideas come to real life. I'm a developer and stude
 
 ## What I'm Up To
 
-*   Trying to "solve" the stock market. Yes, I know it's practically impossible, but the math and data engineering challenge is just too addictive to ignore.
-*   I am fascinated by quirky problems that defy intuition—like the Monty Hall problem I first stumbled upon on a TV show — 99!
-*   This place doubles as a home for my academic coursework, experimental projects, and engineering deep-dives.
+*   Trying to predict the stock market. Yes, I know it's practically impossible, but the difficulty is what I interests me.
+*   I am fascinated by quirky problems that defy intuition, like the Monty Hall problem I first stumbled upon on a TV show — Brooklyn-99!
+*   This place also holds my academic coursework, experimental projects, and engineering solutions.
 
 ---
 
 ## Tech Stack and Tools
 
 *   **Languages:** Python (Data Science/Finance), JavaScript/TypeScript, SQL, Haskell
-*   **Frameworks and Libraries:** Pandas/Polars, NumPy, React, PyTorch, XGBoost, Node/Express
+*   **Frameworks and Libraries:** Pandas/Polars, NumPy, React, PyTorch, XGBoost, Node/Express, FastAPI
 *   **Tools:** Git, Docker, Jupyter, AWS, Jira, Supabase
 
 ---
