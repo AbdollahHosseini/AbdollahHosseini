@@ -6,8 +6,8 @@ Welcome to the space where my ideas come to real life. I'm a developer and stude
 
 ## What I'm Up To
 
-*   Trying to predict the stock market. Yes, I know it's practically impossible, but the difficulty is what I interests me.
-*   I am fascinated by quirky problems that defy intuition, like the Monty Hall problem I first stumbled upon on a TV show — Brooklyn-99!
+*   Trying to predict the stock market, using the Fama-French model and walk-forward model analysis.
+*   I am fascinated by mathematical problems that defy intuition, like the Monty Hall problem I first stumbled upon on a TV show — Brooklyn-99!
 *   This place also holds my academic coursework, experimental projects, and engineering solutions.
 
 ---
